@@ -1,0 +1,56 @@
+pending:
+Add Js 
+  
+Bootstrap 5
+Upload on github
+
+
+
+
+
+clip-path: polygon(0 0,100% 0, 100% 0, 0 0);
+header #toggler:checked ~ .navbar{
+        clip-path: polygon(0 0,100% 0, 100% 0, 0 0);
+    }
+
+    /images\home-bg.png
+
+
+    .home .content p{
+    font-size: 1.5rem;
+    color: #585858;
+    padding-top: 1rem;
+    line-height: 1.5;
+}
+
+bouquets alighnment for 10th img
+js
+bootstrap links
+
+
+
+
+//<div class="container">
+    <div class="form-box">
+        <h1>Sign Up</h1>
+        <form>
+            <div class="input-group">
+                <div class="input-field">
+
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+   </div>
+
+   
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,40,0.8), rgba(0,0,40,0.8)); url:(background image.jpg );
+    background-position: center ;
+    background-size: cover;
+    position:relative;
+}
